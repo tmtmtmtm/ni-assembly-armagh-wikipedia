@@ -1,0 +1,48 @@
+foundid,id,name,party,partyLabel,votes,election,electionLabel,ranking
+,Q17017215,Jim Speers,Q841045,Ulster Unionist Party,26907,,,1
+,Q7815865,Tom French,Q1860218,Workers' Party of Ireland,4920,,,2
+,Q5661723,Harold McCusker,Q841045,Ulster Unionist Party,19547,Q11918778,1982 Assembly election,1
+,Q3476695,Seamus Mallon,Q175443,Social Democratic and Labour Party,8528,Q11918778,1982 Assembly election,2
+,Q333729,Jim Nicholson,Q841045,Ulster Unionist Party,8137,Q11918778,1982 Assembly election,3
+,Q6196712,Jim McAllister,Q76382,Sinn Féin,8090,Q11918778,1982 Assembly election,4
+,Q6780727,Mary Simpson,Q841045,Ulster Unionist Party,8212,Q11918778,1982 Assembly election,5
+,Q5232104,David Calvert,Q215519,Democratic Unionist Party,9459,Q11918778,1982 Assembly election,6
+,Q16091952,Hugh News,Q175443,Social Democratic and Labour Party,5607,Q11918778,1982 Assembly election,7
+,Q7123582,Paddy O'Hanlon,Q175443,Social Democratic and Labour Party,5288,Q11918778,1982 Assembly election,8
+,Q5301622,Douglas Hutchinson,Q215519,Democratic Unionist Party,5016,Q11918778,1982 Assembly election,9
+,Q17017215,Jim Speers,Q841045,Ulster Unionist Party,3982,Q11918778,1982 Assembly election,10
+,Q7815865,Tom French,Q1860218,Workers' Party of Ireland,3494,Q11918778,1982 Assembly election,11
+,Q17308808,Alistair Black,Q7893627,United Ulster Unionist Party,3096,Q11918778,1982 Assembly election,12
+,,Jim O'Hagan,Q76382,Sinn Féin,3088,Q11918778,1982 Assembly election,13
+,,Woolsey Smith,Q215519,Democratic Unionist Party,2039,Q11918778,1982 Assembly election,14
+,,William Jeffrey,Q244927,Alliance Party of Northern Ireland,1958,Q11918778,1982 Assembly election,15
+,Q3476695,Seamus Mallon,Q175443,Social Democratic and Labour Party,8999,Q7058486,1975 Constitutional Convention,1
+,Q14946817,Michael Armstrong,Q841045,Ulster Unionist Party,8802,Q7058486,1975 Constitutional Convention,2
+,Q5301622,Douglas Hutchinson,Q215519,Democratic Unionist Party,7746,Q7058486,1975 Constitutional Convention,3
+,Q5735901,Herbert Whitten,Q841045,Ulster Unionist Party,7021,Q7058486,1975 Constitutional Convention,4
+,Q17308873,Thomas Carson,Q3896802,Vanguard Progressive Unionist Party,6885,Q7058486,1975 Constitutional Convention,5
+,Q17308808,Alistair Black,Q3896802,Vanguard Progressive Unionist Party,6789,Q7058486,1975 Constitutional Convention,6
+,Q16091952,Hugh News,Q175443,Social Democratic and Labour Party,6457,Q7058486,1975 Constitutional Convention,7
+,Q7123582,Paddy O'Hanlon,Q175443,Social Democratic and Labour Party,6361,Q7058486,1975 Constitutional Convention,8
+Q16015196,,John Maginnis,Q7886826,Unionist Party of Northern Ireland,3856,Q7058486,1975 Constitutional Convention,9
+,Q6740860,Malachy McGurran,Q1860218,Republican Clubs,3761,Q7058486,1975 Constitutional Convention,10
+,,Michael Connolly,Q244927,Alliance Party of Northern Ireland,2828,Q7058486,1975 Constitutional Convention,11
+,,Brian English,Q244927,Alliance Party of Northern Ireland,1332,Q7058486,1975 Constitutional Convention,12
+,,Patrick Houlahan,Q1860218,Republican Clubs,637,Q7058486,1975 Constitutional Convention,13
+Q98273211,,Thomas Moore,Q1860218,Republican Clubs,546,Q7058486,1975 Constitutional Convention,14
+,Q7123582,Paddy O'Hanlon,Q175443,Social Democratic and Labour Party,8219,Q7058471,1973 Assembly election,1
+,Q3476695,Seamus Mallon,Q175443,Social Democratic and Labour Party,7995,Q7058471,1973 Assembly election,2
+,Q5735901,Herbert Whitten,Q841045,Ulster Unionist Party,8140.62,Q7058471,1973 Assembly election,3
+,Q17308873,Thomas Carson,Q3896802,Vanguard Progressive Unionist Party,7810.86,Q7058471,1973 Assembly election,4
+,Q6143773,James Stronge,Q841045,Ulster Unionist Party,8693.94,Q7058471,1973 Assembly election,5
+,Q16091952,Hugh News,Q175443,Social Democratic and Labour Party,7832.03,Q7058471,1973 Assembly election,6
+,Q5301622,Douglas Hutchinson,Q215519,Democratic Unionist Party,7431.40,Q7058471,1973 Assembly election,7
+,,Frederick Crowe,Q3896802,Vanguard Progressive Unionist Party,5093.33,Q7058471,1973 Assembly election,8
+,,Michael Connolly,Q244927,Alliance Party of Northern Ireland,4630.34,Q7058471,1973 Assembly election,9
+,,Alexander Greer,Q841045,Ulster Unionist Party,3869.95,Q7058471,1973 Assembly election,10
+,,Thomas Willey,Q215519,Democratic Unionist Party,2773.14,Q7058471,1973 Assembly election,11
+,Q7346049,Robert James Mitchell,Q841045,Ulster Unionist Party,2673.64,Q7058471,1973 Assembly election,12
+,,Samuel McCammick,Q3896802,Vanguard Progressive Unionist Party,2040.52,Q7058471,1973 Assembly election,13
+,,Howard McNally,Q244927,Alliance Party of Northern Ireland,1945.54,Q7058471,1973 Assembly election,14
+,,Thomas Newell,Q7058511,Northern Ireland Labour Party,1053.90,Q7058471,1973 Assembly election,15
+,,Robert Murphy,Q327591,Independent (politician),244,Q7058471,1973 Assembly election,16
